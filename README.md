@@ -1,5 +1,8 @@
 # multi-geth's RFC Process
 
+[![Core Paper Discord](https://img.shields.io/discord/586902457053872148)](https://discord.gg/BdRSvJD)
+[![Gitter](https://img.shields.io/gitter/room/multi-geth/community)](https://gitter.im/multi-geth/community)
+
 This repository documents things potentially controversial, but may need to apply in the `multi-geth` project. Those includes hard forks, new network additions or protocol changes.
 
 Usually we accept all networks unless it requires a great amount of work. However, we may ask you to enable hard forks or new networks under different configuration flags.
